@@ -1,5 +1,5 @@
 # mern-estate
-Real estate app using MERN and tailwind CSS
+# Real estate app using MERN and tailwind CSS
 ![home](https://github.com/sami516/mern-estate/assets/98039768/a885725f-72d2-4af9-81b2-fefdd9b44535)
 ![home 2](https://github.com/sami516/mern-estate/assets/98039768/3a0014d1-3deb-4438-9347-317c7f36dfbe)
 ![home 3](https://github.com/sami516/mern-estate/assets/98039768/b02794f0-2b84-4461-b1bc-220b04463aa8)
